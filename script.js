@@ -6,9 +6,7 @@ while (option !== '3') {
     1. Adicionar uma carta
     2. Puxar uma carta
     3. Sair
-    
 `)
-
 
 option = prompt('Escolha uma opção: ')
 
